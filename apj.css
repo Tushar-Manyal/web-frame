@@ -5,7 +5,7 @@
 }
 
 .container{
-    background-color:aqua;
+    background-color:rgb(222, 189, 252);
     min-height: 100vh;
     border:10px solid #1d1e4c;
     border-left-width: 100px;

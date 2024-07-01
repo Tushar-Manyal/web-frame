@@ -31,9 +31,17 @@
     text-align: end;
 }
 
+.image_container img{
+    padding-left:150px;
+    
+    
+    /* border-radius:50%; */
+}
+
 .image_container{
-    border-radius: 50%;
-    overflow: hidden;
+    /* border-radius: 50%; */
+    /* overflow: hidden; */
+    padding-left:100px;
 
 }
 .image_container,img{
@@ -48,13 +56,14 @@
     font-size: 70px;
     font-weight: 400;
     margin-bottom: 20px;
-    padding-left:20px;
+    padding-left:150px;
 }
 .about_section p{
     font-size:20px;
     line-height:30px;
     letter-spacing:1.2px;
     text-align: justify;
+    padding-left:150px;
 }
 footer{
     margin:50px 0;

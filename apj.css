@@ -8,7 +8,7 @@
     background-color:rgb(241, 185, 255);
     min-height: 100vh;
     border:10px solid #1d1e4c;
-    border-left-width: 100px;
+    border-left-width: 10px;
    
 }
 .content{
@@ -46,7 +46,8 @@
 .about_section h2{
     font-size: 70px;
     font-weight: 400;
-    margin-bottom: 20px
+    margin-bottom: 20px;
+    padding-left:20px;
 }
 .about_section p{
     font-size:20px;
